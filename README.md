@@ -1,5 +1,5 @@
-# Twitter Sentimental Analysis using Apache-Storm
-Predicting Georgia General Election with Twitter Sentimental Analysis using Apache Storm
+# Twitter Sentimental Analysis
+Predicting Georgia General Election with Twitter Sentimental Analysis 
 
 In this project, we address the problem of sentiment classification on twitter dataset that will be collected from the 2018 
 Georgia gubernatorial election which is going to be held on November 6, 2018. We will attempt to perform sentiment analysis 
